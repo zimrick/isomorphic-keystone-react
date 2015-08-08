@@ -4,10 +4,11 @@ An example of an isomorphic app structure with react, react-router, fluxible, an
 
 ## Getting started
 
-Run `npm install`
-Set up `updates` folder with `0.0.1-admin.js` (Check keystone getting started)
-You will also need a .env file with a `MONGO_URI` variable (again check keystone getting started)
+1.Run `npm install`
+2.Set up `updates` folder with `0.0.1-admin.js` (Check keystone getting started)
+3.You will also need a .env file with a `MONGO_URI` variable (again check keystone getting started)
 
-Go to `localhost:3000`
+4.Run `node keystone`
+5.Go to `localhost:3000`
 
 For more information on how things work, check the comments in the code.
