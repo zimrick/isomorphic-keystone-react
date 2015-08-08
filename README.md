@@ -11,3 +11,5 @@ An example of an isomorphic app structure with react, react-router, fluxible, an
 5. Go to `localhost:3000`
 
 For more information on how things work, check the comments in the code.
+
+When working on the react code, run `webpack` or `webpack -w`.
