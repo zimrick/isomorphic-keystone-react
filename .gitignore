@@ -1,0 +1,4 @@
+.env
+.DS_Store
+node_modules
+updates/0.0.1-admins.js
